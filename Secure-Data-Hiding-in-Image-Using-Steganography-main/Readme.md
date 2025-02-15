@@ -2,7 +2,8 @@ Secure Data Hiding in Image: Protecting Your Confidential Information
 A web-based application for securely encrypting and decrypting messages hidden within images, ensuring your sensitive data remains private and protected.
 
 🖼️ Preview
-
+ https://github.com/yuvrajsingh64/Secure-Data-Hiding-in-Image-Using-Steganography-main/blob/main/Secure-Data-Hiding-in-Image-Using-Steganography-main/Steganography%20Project%20Output.png.png
+ 
 📑 Project Presentation
 
 Secure Data Hiding in Image Using Steganography
