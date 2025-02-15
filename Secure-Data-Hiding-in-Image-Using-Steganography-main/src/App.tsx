@@ -268,7 +268,7 @@ function App() {
           />
           <div className="text-center">
             <p className="text-lg font-semibold bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-              Made By Prashant Kumar Singh
+              Made By Yuvraj Singh
             </p>
             <p className="text-sm text-gray-400">Secure Image Encryption System</p>
           </div>
