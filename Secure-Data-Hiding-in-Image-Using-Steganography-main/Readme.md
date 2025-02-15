@@ -62,6 +62,7 @@ Made by Yuvraj Singh as part of the IBM Cyber Security Internship.
 
 Connect with Me:
 
-Instagram
-Telegram
+Instagram- yuvrajsingh_64
+Telegram- yuvrajsingh64
+
 
